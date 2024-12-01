@@ -61,7 +61,9 @@ Results
 
 Sales Forecast:
 Predicts weekly sales for each pizza type using ARIMA.
+
 Ingredient Planning:
 Calculates the total quantity of each ingredient required for the forecasted sales.
+
 Visualizations:
 Includes bar charts for ingredient requirements and sales trends.

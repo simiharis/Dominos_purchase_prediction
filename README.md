@@ -48,14 +48,17 @@ II. Exploratory Data Analysis (EDA)
 Exploratory Data Analysis (EDA) discovers patterns, relationships, and anomalies in the data.
 
 III. Sales Prediction
+
 Sales Prediction involves Time Series Forecasting, a technique used to predict future values based on historical data collected over time. 
 
 Features
+
 Forecast weekly sales for each pizza type using historical sales data.
 Calculate the total quantity of ingredients required for the forecasted sales.
 Provide visualizations and summary reports for inventory planning.
 
 Results
+
 Sales Forecast:
 Predicts weekly sales for each pizza type using ARIMA.
 Ingredient Planning:
